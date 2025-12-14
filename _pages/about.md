@@ -16,7 +16,7 @@ My long-term research revolves around the developments of Robotics and Motion Co
 
 Publications
 ======
-Robust Nonlinear Control for Lateral Dynamics of Autonomous Six-Wheel-Driving/Six-Wheel Steering Vehicle
+**Robust Nonlinear Control for Lateral Dynamics of Autonomous Six-Wheel-Driving/Six-Wheel Steering Vehicle**
 <br>
 <span style="font-size: 0.85em;">
 _D.Q.Phan_, _**Ba Pham Tuan Vo**_, _H.H.Nguyen_, _V.D.Tran_, _G.K.Dinh_, _T.L.Nguyen_
