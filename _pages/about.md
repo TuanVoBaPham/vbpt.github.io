@@ -20,6 +20,10 @@ Robust Nonlinear Control for Lateral Dynamics of Autonomous Six-Wheel-Driving/Si
 <br>
 <span style="font-size: 0.85em;">
 _D.Q.Phan_, _**Ba Pham Tuan Vo**_, _H.H.Nguyen_, _V.D.Tran_, _G.K.Dinh_, _T.L.Nguyen_
+</span>
+<br>
+<br>
+<span style="font-size: 0.85em;">
 Accepted and presented at [Asia Meeting on Environment and Electrical Engineering](https://eeeam.net/), 2025, [[draft](https://drive.google.com/file/d/1OAGgXv4egcGP-2XiI71gxv08vhQVlcZG/view?usp=drive_link)]
 </span>
 <br>
